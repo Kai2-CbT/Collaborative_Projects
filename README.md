@@ -13,3 +13,8 @@ Project Ideas:
 1. Simple To-Do List
 2. Store-front / Inventory Management
 3. 
+
+In progress:
+1. set up git
+2. set up repo
+3. set up discord channel for chatting
