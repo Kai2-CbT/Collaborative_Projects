@@ -15,6 +15,6 @@ Project Ideas:
 3. 
 
 In progress:
-1. set up git
-2. set up repo
+1. set up git - Done
+2. set up repo - Done
 3. set up discord channel for chatting
