@@ -1,0 +1,14 @@
+@RestController
+@RequestMapping("/tasks")
+public class TaskController {
+
+    @GetMapping
+    public List<Task> getTasks() {
+        return taskService.getAllTasks();
+    }
+
+    @PostMapping
+    public Task createTask(@RequestBody Task task) {
+        return taskService.createTask(task);
+    }
+}
